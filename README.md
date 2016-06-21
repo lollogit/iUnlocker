@@ -8,6 +8,7 @@
 
 ####系统要求
 * iOS 9+
+* Xcode 编译，需要配合[ Wordpress 插件](https://github.com/iMuFeng/iUnlocker/tree/wordpress)
 
 ### MIT license
 
